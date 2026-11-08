@@ -29,5 +29,5 @@ python tools/audit_synology.py --host 192.168.1.50
 
 ---
 
-**Autor:** Security Analyst  
-**Licencia:** Uso Privado / Propietario
+**Autor:** Juan Carlos Araneda M.  
+**Licencia:** MIT License (consulte [LICENSE](LICENSE))
